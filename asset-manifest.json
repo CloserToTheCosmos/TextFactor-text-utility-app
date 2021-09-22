@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TextFactor-text-utility-app/static/css/main.f7a16ae9.chunk.css",
+    "main.js": "/TextFactor-text-utility-app/static/js/main.f2cfd4eb.chunk.js",
+    "main.js.map": "/TextFactor-text-utility-app/static/js/main.f2cfd4eb.chunk.js.map",
+    "runtime-main.js": "/TextFactor-text-utility-app/static/js/runtime-main.8bca2f9f.js",
+    "runtime-main.js.map": "/TextFactor-text-utility-app/static/js/runtime-main.8bca2f9f.js.map",
+    "static/js/2.c7cf5f28.chunk.js": "/TextFactor-text-utility-app/static/js/2.c7cf5f28.chunk.js",
+    "static/js/2.c7cf5f28.chunk.js.map": "/TextFactor-text-utility-app/static/js/2.c7cf5f28.chunk.js.map",
+    "static/js/3.b29054d5.chunk.js": "/TextFactor-text-utility-app/static/js/3.b29054d5.chunk.js",
+    "static/js/3.b29054d5.chunk.js.map": "/TextFactor-text-utility-app/static/js/3.b29054d5.chunk.js.map",
+    "index.html": "/TextFactor-text-utility-app/index.html",
+    "static/css/main.f7a16ae9.chunk.css.map": "/TextFactor-text-utility-app/static/css/main.f7a16ae9.chunk.css.map",
+    "static/js/2.c7cf5f28.chunk.js.LICENSE.txt": "/TextFactor-text-utility-app/static/js/2.c7cf5f28.chunk.js.LICENSE.txt",
+    "static/media/MyPicture.94c63be3.webp": "/TextFactor-text-utility-app/static/media/MyPicture.94c63be3.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bca2f9f.js",
+    "static/js/2.c7cf5f28.chunk.js",
+    "static/css/main.f7a16ae9.chunk.css",
+    "static/js/main.f2cfd4eb.chunk.js"
+  ]
+}
